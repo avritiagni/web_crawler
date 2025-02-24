@@ -1,0 +1,2 @@
+class MaxProductLimitReached(Exception):
+    pass
